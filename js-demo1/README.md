@@ -8,6 +8,7 @@ JS_Demo1 关于任务列表实战DEMO，
 
 主要是学习JS中事件监听、事件响应、页面渲染几点，
 学习到JS中：
+
     1、querySelector,querySelectorAll选择器
         document.querySelector('id名/类名/标签名');
 
