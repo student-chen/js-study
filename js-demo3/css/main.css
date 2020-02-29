@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+}
+
+#chain {
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+#battery {
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+#hourglass {
+    margin-top: 20px;
+    font-size: 100px;
+}
